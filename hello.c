@@ -5,4 +5,5 @@ int main(){
    printf("Hello mahin");
    printf("Hello sanjida");
    printf("Hello akib");
+   printf ("hello shocho");
 }
